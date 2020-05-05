@@ -1,9 +1,9 @@
-//version 1
+//version 1.1
 public class Prova {
 	private int b;
 
 	public Prova() {
-		b = 5;
+		b = 7;
 	}
 
 	public int getNum() {
